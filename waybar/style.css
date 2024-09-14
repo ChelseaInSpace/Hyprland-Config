@@ -53,10 +53,8 @@ window#waybar {
 }
 
 #workspaces button:hover {
-	border: 2px solid #9525ff;
-	padding: 0 7 0 2;
+	border: 1px solid #9525ff;
 	color: #9525ff;
-	padding: 0 5px;
 }
 
 #pulseaudio {
