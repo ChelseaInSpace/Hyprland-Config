@@ -36,7 +36,7 @@ window#waybar {
 }
 
 #workspaces button {
-	margin: 0px 6px 0px 0px;
+	margin: 0px 4px 0px 0px;
 	padding: 0px 8px 0px 3px;
 	color: #fdf6e3;
 	border: 1px solid #fdf6e3;
