@@ -1,0 +1,19 @@
+install (+dependencies):
+hyprland
+hyprpaper
+hyprshot
+waybar
+bitwarden
+pavucontrol
+blueman
+firefox
+dolphin
+steam
+qt5ct
+qt6ct
+wlogout
+kitty
+wofi
+nm-applet
+kwrite
+gimp
