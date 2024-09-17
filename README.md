@@ -4,7 +4,6 @@ hyprland
 hyprpaper
 hyprshot
 waybar
-bitwarden
 pavucontrol
 blueman
 firefox
@@ -14,6 +13,7 @@ qt5ct
 qt6ct
 wlogout
 kitty
+hyfetch
 wofi
 nm-applet
 kwrite
