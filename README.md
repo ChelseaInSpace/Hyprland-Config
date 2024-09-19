@@ -14,6 +14,7 @@ hyfetch
 wofi
 nm-applet
 gnome-text-editor
+polkit-gnome
 
 fonts:
 
