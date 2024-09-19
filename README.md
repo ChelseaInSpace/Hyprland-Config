@@ -7,29 +7,18 @@ waybar
 pavucontrol
 blueman
 firefox
-dolphin
-steam
-qt5ct
-qt6ct
+nemo
 wlogout
 kitty
 hyfetch
 wofi
 nm-applet
-kwrite
-gimp
+gnome-text-editor
 
 fonts:
 
-0xProto Nerd Font
-Agave Nerd Font
 Bitstrom Wera Nerd Font
-Commit Mono Nerd Font
-DejaVu Sans M Nerd Font
 Inter
 
 icons:
-candy-icons
-
-themes:
-Magna-Dark-GTK
+Ars-Dark-Icons
